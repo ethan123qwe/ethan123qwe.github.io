@@ -1,19 +1,19 @@
 @import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&family=Tilt+Warp&display=swap");
 
 :root {
-  --primary-color: red; /* Deep Blue for primary elements */
-  --secondary-color: red; /* Soft White for secondary elements */
-  --accent-color: red; /* Vibrant Green for accents and buttons */
-  --menu-background: #f2e8cf; /* Muted Navy for the menu background */
-  --body-background: #bc4749; /* Very Light Gray for the body background */
-  --segment-background: red; /* Off-White for card/segment backgrounds */
-  --input-background: red; /* Soft Gray for input fields */
-  --input-border: red; /* Light Blue Gray for input borders */
-  --dropdown-background: red; /* Sky Blue for dropdowns */
+  --primary-color: rgb(162, 0, 255); /* Deep Blue for primary elements */
+  --secondary-color: rgb(162, 0, 255); /* Soft White for secondary elements */
+  --accent-color: rgb(162, 0, 255); /* Vibrant Green for accents and buttons */
+  --menu-background: rgb(162, 0, 255); /* Muted Navy for the menu background */
+  --body-background:rgb(162, 0, 255); /* Very Light Gray for the body background */
+  --segment-background: rgb(162, 0, 255); /* Off-White for card/segment backgrounds */
+  --input-background: rgb(162, 0, 5255); /* Soft Gray for input fields */
+  --input-border: rgb(162, 0, 255); /* Light Blue Gray for input borders */
+  --dropdown-background: rgb(162, 0, 255); /* Sky Blue for dropdowns */
 }
 
 body {
-  background-color: #1d2c13;
+  background-color: #340070;
   background-image: url("../img/bg.svg");
   font-family: "Montserrat", sans-serif;
   font-weight: 500;

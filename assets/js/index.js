@@ -19,7 +19,7 @@ templatetopnav.innerHTML = `
 <div class="centered-fixed">
      <img src="/assets/img/scaled_goose_pixel.png" onmouseover="spin(this)"
     onmouseout="unspin(this)" alt="Duck" onClick="home()" width="40px" height="40px" />
-      <span id="duckmath-header" class="duckmath-header" onmouseenter="showchildren(this);" onmouseleave="hidechildren(this);">DuckMath Unblocked Games</span>
+      <span id="ethan123qwe-header" class="ethan123qwe-header" onmouseenter="showchildren(this);" onmouseleave="hidechildren(this);">ethan123qwe Unblocked Games</span>
 </div>
 
 
@@ -71,14 +71,14 @@ templatefooter.innerHTML = `
   <div style="max-width: 1200px; margin: 0 auto; display: grid; gap: 16px;">
     <div style="display: flex; align-items: center; justify-content: space-between; gap: 16px; flex-wrap: wrap;">
       <div style="display: flex; align-items: center; gap: 12px;">
-        <img loading="lazy" src="/assets/img/duck.webp" alt="DuckMath" width="40" height="40" style="border-radius: 6px;"/>
+        <img loading="lazy" src="/assets/img/duck.webp" alt="ethan123qwe" width="40" height="40" style="border-radius: 6px;"/>
         <div>
-          <a href="/" style="font-weight: 700; font-size: 1.05rem; text-decoration: none; color: inherit;">DuckMath.org — Unblocked Games For School</a>
+          <a href="/" style="font-weight: 700; font-size: 1.05rem; text-decoration: none; color: inherit;">ethan123qwe.org — Unblocked Games For School</a>
           <div style="opacity: 0.9; font-size: 0.95rem;">1,000,000+ active users since 2022</div>
         </div>
       </div>
       <div style="max-width: 680px; opacity: 0.9; font-size: 0.95rem;">
-        DuckMath.org hosts 250+ browser games, updates daily, and features leaderboards, coins, a seasonal battlepass, cloaking tools, and multiple proxy integrations so you can play from the school chromebook.
+        ethan123qwe.org hosts 250+ browser games, updates daily, and features leaderboards, coins, a seasonal battlepass, cloaking tools, and multiple proxy integrations so you can play from the school chromebook.
       </div>
     </div>
 
@@ -118,7 +118,7 @@ templatefooter.innerHTML = `
     </div>
 
     <div style="display: flex; align-items: center; justify-content: space-between; gap: 12px; flex-wrap: wrap; opacity: 0.85; font-size: 0.9rem; padding-top: 8px;">
-      <div>© <span id="footer-year"></span> DuckMath.org</div>
+      <div>© <span id="footer-year"></span> ethan123qwe.org</div>
       <div>Built for fast, accessible, unblocked gaming.</div>
     </div>
   </div>
