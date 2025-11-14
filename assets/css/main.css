@@ -96,7 +96,7 @@ body {
   font-size: 2rem;
   color: var(--input-border);
   text-align: center;
-  margin-top: -5px; /* Adjust this value to move the text up */
+  margin-top: -1px; /* Adjust this value to move the text up */
 }
 
 .small-text {
@@ -111,8 +111,8 @@ body {
   bottom: 0;
   right: 0;
   padding: 10px;
-  background-color: rgba(255, 255, 255, 0.8);
-  color: #ff0000;
+  background-color: rgba(255, 45, 150, 0.8);
+  color: #730b88;
   font-size: 25px;
   font-weight: 100;
   font-family: "Tilt Warp", "Montserrat", sans-serif;
@@ -120,7 +120,7 @@ body {
   pointer-events: none;
   z-index: 1;
   visibility: hidden;
-  background-color: #fff;
+  background-color: #960064;
   -moz-border-radius: 10px;
   -webkit-border-radius: 10px;
   border-radius: 1rem;
@@ -154,8 +154,8 @@ body {
 }
 
 .button:hover {
-  background-color: #ff0000;
-  color: #fff;
+  background-color: #9c0288;
+  color: #740d55;
   transform: scale(0.95);
 }
 
@@ -228,15 +228,15 @@ body {
 
 a {
   text-decoration: none;
-  color: #ff3b3b;
+  color: #4d0040;
 }
 
 a:visited {
-  color: #d62828;
+  color: #680953;
 }
 
 a:hover {
-  color: #ff6b6b;
+  color: #6e125a;
 }
 
 /*^ Streak.html */
@@ -245,7 +245,7 @@ a:hover {
   padding: 0px 10px 0px 10px;
   margin-bottom: 2rem;
   background-color: rgba(39, 48, 67, 0.5);
-  color: #ff0000;
+  color: #c4239b;
   border-radius: 1rem;
   transition: all 0.25s cubic-bezier(0.05, 0.75, 0.12, 0.97);
   box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
