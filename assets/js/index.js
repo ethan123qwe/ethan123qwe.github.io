@@ -104,7 +104,7 @@ templatefooter.innerHTML = `
       <div>
         <div style="font-weight: 600; margin-bottom: 8px;">Socials</div>
         <div style="display: grid; gap: 6px;">
-          <a href="https://github.com/duckmath/duckmath.github.io" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; opacity: 0.95;">GitHub</a>
+          <a href="https://github.com/ethan123qwe/ethan123qwe.github.io" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; opacity: 0.95;">GitHub</a>
           <a href="https://discord.gg/aMUVSARrEy" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; opacity: 0.95;">Discord</a>
           <a href="https://www.tiktok.com/@rockyf2p" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; opacity: 0.95;">TikTok</a>
           <a href="https://www.youtube.com/@duckmathgames" target="_blank" rel="noopener" style="text-decoration: none; color: inherit; opacity: 0.95;">YouTube</a>
